@@ -1,3 +1,5 @@
 public class Blitz5Aditi {
-  System.debug('Hey Hey Hey');
+    public static void sayHey() {
+        System.debug('Hey Hey Hey');
+    }
 }
